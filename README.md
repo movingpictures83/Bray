@@ -2,6 +2,7 @@
 # Language: R
 # Input: CSV (network)
 # Output: CSV (distances)
+# Tested with: PluMA 1.0, R 3.2.5
 
 PluMA plugin that takes a community data matrix and computes the Bray-Curtis dissimilarity (Bray and Curtis, 1957) value between all samples.
 
