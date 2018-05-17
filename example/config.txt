@@ -1,0 +1,2 @@
+Prefix plugins/Bray/example/
+Plugin Bray inputfile abundN.csv outputfile abundN.bray.csv
